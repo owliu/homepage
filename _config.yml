@@ -1,7 +1,7 @@
 # (string) Title of your wiki
 title: 云母Dota2
-demo_ver: 1.0.13
-remote_theme: Drassil/git-wiki-theme@master
+#demo_ver: 1.0.13
+#remote_theme: Drassil/git-wiki-theme@master
 description: 云母组Dota2社团-云母刀刀社活动记录官网
 show_downloads: false
 show_wiki_pages: true
@@ -24,8 +24,20 @@ permalink: /blog/posts/:year/:month/:day/:title:output_ext
 site_root: 
 
 #
-# Jekyll
+# Jekyll configurations
 #
+
+# You can customize it changing default layout for all pages
+# More info: https://jekyllrb.com/docs/configuration/
+#
+# git-wiki includes some internal themes that you can choose
+# check _layouts folder
+#
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 defaults:
  - 
@@ -55,22 +67,56 @@ defaults:
       path: assets/blog
     values:
       layout: "git-wiki-bs-united"
-
+sass:
+    style: compressed
 plugins:
- - jekyll-feed
- - jekyll-redirect-from
- - jekyll-seo-tag
- - jekyll-sitemap
- - jekyll-avatar
- - jemoji
- - jekyll-mentions
-  
+  - jekyll-avatar
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jemoji
+
+
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need
 # Check wiki documentation to learn how they work
 #
 
+inc_before_toc : 
+inc_after_toc : 
+inc_before_content : 
 #inc_after_content: "drassil/comments.html"
+inc_before_footer : 
+inc_after_footer : 
+inc_before_head : 
+inc_after_head : 
+inc_before_meta : 
+inc_after_meta : 
+inc_before_scripts : 
+inc_after_scripts : 
+inc_before_styles : 
+inc_after_styles : 
+inc_before_header : 
 inc_after_head : "drassil/head.html"
+inc_after_header : "drassil/head.html"
+inc_before_tail : 
+inc_after_tail : 
+inc_before_tools : 
+inc_after_tools : 
+
 inc_before_page_list : "drassil/sidebar.html"
+inc_after_page_list :
+inc_before_post_list :
+inc_after_post_list :
