@@ -1,5 +1,5 @@
 ---
-redirect_from: /
+edirect_from: /
 published: true
 ---
 
@@ -12,8 +12,8 @@ published: true
 | 第一届 云母Minor | 第二届云母Dota2邀请赛 | 第三届云母Dota2邀请赛（筹备中） |
 | ----- | ------------ | -------- |
 | ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DMINOR.jpg) | ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B.jpg) |     ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B%E5%BF%AB%E6%9D%A5%E4%BA%86.jpg)     |
-| 测试说明 | 测试说明 | 测试说明 |
-| B站跳转地址<br>油管地址 | B站跳转地址<br>油管地址 | 无 |
+| 2021年9月5日19时30分，云母刀刀社第一届云母Minor赛事通过线上的方式顺利举行完毕。群内十位玩家通过roll点分配战力的方式，组成了自愿加班队和顺风就浪队。<br>经过紧张刺激的完整BO3赛事，自愿加班队的五位选手获得了首届赛事的胜利，辉煌的赛绩被记录在刀刀社活动文档中。 | 这是云母刀刀社首次尝试模仿专业的Dota赛事的流程和规则，举办的业余赛事。通过邀请的方式，组织了社团群内的20名选手，通过roll点分配战力的方式，组织了四支队伍参赛。<br>从2021年11月27日起，连续的三周的周末，通过双败淘汰赛制，举办了六组比赛。2021年12月12日20点，“ElephantDotaGaming”决赛对阵“我的超哥”，最终“我的超哥”队以2：0的成绩，成功取得本次比赛的冠军，辉煌的赛绩被记录在刀刀社活动文档中。 | 测试说明 |
+| ![](../img/inpost/202107/main_page/bilibilifavicon.jpg)[B站赛事录像地址](https://www.bilibili.com/video/BV1Vv411P7EX)<br>![](../img/inpost/202107/main_page/youtubefavicon.jpg)[YouTube赛事录像地址](https://www.youtube.com/watch?v=jl7DksYicIs&t=6103s&ab_channel=%E7%B2%89%E7%89%9B) | ![](../img/inpost/202107/main_page/bilibilifavicon.jpg)[B站赛事录像地址](https://space.bilibili.com/1331609)<br>![](../img/inpost/202107/main_page/youtubefavicon.jpg)[YouTube赛事录像播放列表](https://www.youtube.com/watch?v=-kUK38RsHQo&list=PLHDmdJSAdxtxknSZcIe4EZMmhGmbZ4kOV&ab_channel=%E7%B2%89%E7%89%9B) | 无 |
 
 # 现役社团选手
 
@@ -37,3 +37,8 @@ published: true
 |                          5一代传奇                           |                            2卫士                             |                            3中军                             |                            4统帅                             |                                                              |
 
 # 社团退役选手
+
+无
+
+后续计划将转会或者退役的选手信息记录在此。
+
