@@ -2,7 +2,7 @@
 title: 云母Dota2
 #demo_ver: 1.0.13
 #remote_theme: Drassil/git-wiki-theme@master
-description: 云母组Dota2社团-云母刀刀社活动记录官网
+description: 云母组Dota2社团-云母刀刀社主页
 show_downloads: false
 show_wiki_pages: true
 show_wiki_pages_limit: 10
@@ -49,24 +49,24 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "git-wiki-bs-united"
+      layout: "git-wiki-bs-lux"
  -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-bs-united"
+      layout: "git-wiki-bs-lux"
  -
     scope:
       path: ""
       type: "posts"
     values:
-      layout: "git-wiki-bs-united"
+      layout: "git-wiki-bs-lux"
  -
     scope:
       path: assets/blog
     values:
-      layout: "git-wiki-bs-united"
+      layout: "git-wiki-bs-lux"
 sass:
     style: compressed
 plugins:
