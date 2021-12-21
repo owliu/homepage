@@ -9,12 +9,38 @@ published: true
 社团的成立初衷，只是为了在不影响公司业务、工作排期、现实生活的前提下，和同事促进交流，业余时间能够一起愉快游戏。
 目前在社团大家的努力下，刀刀社组织了两次内部联赛，并且第三届的联赛，也已经在筹备规划中了。
 
-| 第一届 云母Minor | 第二届云母Dota2邀请赛 | 第三届云母Dota2邀请赛（筹备中） |
-| ----- | ------------ | -------- |
-| <img src="../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DMINOR.jpg"> |<img src="../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B.jpg"> |     <img src="../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B%E5%BF%AB%E6%9D%A5%E4%BA%86.jpg">    |
-| 2021年9月5日19时30分，云母刀刀社第一届云母Minor<br/>赛事通过线上的方式顺利举行完毕。群内十位玩家通过<br/>roll点分配战力的方式，组成了自愿加班队和顺风就浪<br/>队。经过紧张刺激的完整BO3赛事，自愿加班队的五位<br/>选手获得了首届赛事的胜利，辉煌的赛绩被记录在刀刀<br/>社活动文档中。 | 这是云母刀刀社首次尝试模仿专业的Dota赛事的流程<br/>和规则，举办的业余赛事。通过邀请的方式，组织了<br/>社团群内的20名选手，通过roll点分配战力的方式，组<br/>织了四支队伍参赛。从2021年11月27日起，连续的<br/>三周的周末，通过双败淘汰赛制，举办了六组比赛。<br/>2021年12月12日20点，“ElephantDotaGaming”决赛对<br/>阵“我的超哥”，最终“我的超哥”队以2：0的<br/>成绩，成功取得本次比赛的冠军，辉煌的赛<br/>绩被记录在刀刀社活动文档中。 | 测试说明 |
-| ![](../img/inpost/202107/main_page/bilibilifavicon.jpg)[B站赛事录像地址](https://www.bilibili.com/video/BV1Vv411P7EX)<br>![](../img/inpost/202107/main_page/youtubefavicon.jpg)[YouTube赛事录像地址](https://www.youtube.com/watch?v=jl7DksYicIs&t=6103s&ab_channel=%E7%B2%89%E7%89%9B) | ![](../img/inpost/202107/main_page/bilibilifavicon.jpg)[B站赛事录像地址](https://space.bilibili.com/1331609)<br>![](../img/inpost/202107/main_page/youtubefavicon.jpg)[YouTube赛事录像播放列表](https://www.youtube.com/watch?v=-kUK38RsHQo&list=PLHDmdJSAdxtxknSZcIe4EZMmhGmbZ4kOV&ab_channel=%E7%B2%89%E7%89%9B) | 无 |
-
+<table width="100%" border="0" cellspacing="1" cellpadding="4" bgcolor="#cccccc" align="center">
+  <tr>
+    <td width="33%" ><h4>第三届云母Dota2邀请赛（筹备中）</h4></td>
+    <td width="33%"><h4>第二届云母Dota2邀请赛</h4></td>
+    <td width="33%"><h4>第一届 云母Minor</h4></td>
+  </tr>
+  <tr>    
+    <td><img src="../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B%E5%BF%AB%E6%9D%A5%E4%BA%86.jpg"></td>
+    <td><img src="../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B.jpg"></td>
+    <td><img src="../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DMINOR.jpg"> </td>
+  </tr> 
+  <tr>
+    <td>Coming soon……</td>
+    <td>这是云母刀刀社首次尝试模仿专业的Dota赛事的流程和规则，举办的业余赛事。通过邀请的方式，组织了社团群内的20名选手，通过roll点分配战力的方式，组织了四支队伍参赛。<br>从2021年11月27日起，连续的三周的周末，通过双败淘汰赛制，举办了六组比赛。2021年12月12日20点，“ElephantDotaGaming”决赛对阵“我的超哥”，最终“我的超哥”队以2：0的成绩，成功取得本次比赛的冠军，辉煌的赛绩被记录在刀刀社活动文档中。</td>
+    <td>2021年9月5日19时30分，云母刀刀社第一届云母Minor赛事通过线上的方式顺利举行完毕。群内十位玩家通过roll点分配战力的方式，组成了自愿加班队和顺风就浪队。<br>经过紧张刺激的完整BO3赛事，自愿加班队的五位选手获得了首届赛事的胜利，辉煌的赛绩被记录在刀刀社活动文档中。</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+    <img src="../img/inpost/202107/main_page/bilibilifavicon.jpg">
+    <a href="https://space.bilibili.com/1331609">B站赛事录像地址</a><br>
+    <img src="../img/inpost/202107/main_page/youtubefavicon.jpg">
+    <a href="https://www.youtube.com/watch?v=-kUK38RsHQo&list=PLHDmdJSAdxtxknSZcIe4EZMmhGmbZ4kOV&ab_channel=%E7%B2%89%E7%89%9B">YouTube赛事录像播放列表</a>
+    </td>
+    <td>
+    <img src="../img/inpost/202107/main_page/bilibilifavicon.jpg">
+    <a href="https://www.bilibili.com/video/BV1Vv411P7EX">B站赛事录像地址</a><br>
+    <img src="../img/inpost/202107/main_page/youtubefavicon.jpg">
+    <a href="https://www.youtube.com/watch?v=jl7DksYicIs&t=6103s&ab_channel=%E7%B2%89%E7%89%9B">YouTube赛事录像地址</a>
+    </td>
+  </tr>
+</table>
 # 现役社团选手
 
 早期成员按ID序号升序，后续成员按照加入顺序排序
