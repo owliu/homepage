@@ -9,14 +9,13 @@ published: true
 社团的成立初衷，只是为了在不影响公司业务、工作排期、现实生活的前提下，和同事促进交流，业余时间能够一起愉快游戏。
 目前在社团大家的努力下，刀刀社组织了两次内部联赛，并且第三届的联赛，也已经在筹备规划中了。
 
-| 第一届 云母Minor | 第二届云母Dota2邀请赛 | 第三届云母Dota2邀请赛 |
+| 第一届 云母Minor | 第二届云母Dota2邀请赛 | 第三届云母Dota2邀请赛（筹备中） |
 | ----- | ------------ | -------- |
-| ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DMINOR.jpg) | ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B.jpg) |     ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B.jpg)     |
+| ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DMINOR.jpg) | ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B.jpg) |     ![](../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B%E5%BF%AB%E6%9D%A5%E4%BA%86.jpg)     |
 | 测试说明 | 测试说明 | 测试说明 |
-| B站跳转地址 | B站跳转地址 | B站跳转地址 |
+| B站跳转地址<br>油管地址 | B站跳转地址<br>油管地址 |  |
 
 现役社团选手
-
 |      |      |      |      |      |
 | ---- | ---- | ---- | ---- | ---- |
 |      |      |      |      |      |
