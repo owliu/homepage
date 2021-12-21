@@ -8,12 +8,12 @@ published: true
 云母刀刀社是散爆网络内的Dota2爱好者内部组织的兴趣小组，于2021年7月23日成立。
 社团的成立初衷，只是为了在不影响公司业务、工作排期、现实生活的前提下，和同事促进交流，业余时间能够一起愉快游戏。
 目前在社团大家的努力下，刀刀社组织了两次内部联赛，并且第三届的联赛，也已经在筹备规划中了。
-
+<hr /> 
 <table width="100%" border="0" cellspacing="1" cellpadding="1" align="center">
   <tr>
-    <td width="33%" ><h5>第三届云母Dota2邀请赛（筹备中）</h5></td>
-    <td width="33%"><h5>第二届云母Dota2邀请赛</h5></td>
-    <td width="33%"><h5>第一届 云母Minor</h5></td>
+    <td width="33%" ><h4>第三届云母Dota2邀请赛（筹备中）</h4></td>
+    <td width="33%"><h4>第二届云母Dota2邀请赛</h4></td>
+    <td width="33%"><h4>第一届 云母Minor</h4></td>
   </tr>
   <tr>    
     <td><img src="../img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B%E5%BF%AB%E6%9D%A5%E4%BA%86.jpg"></td>
@@ -41,9 +41,11 @@ published: true
     </td>
   </tr>
 </table>
+<hr /> 
 # 现役社团选手
 
 早期成员按ID序号升序，后续成员按照加入顺序排序
+<hr /> 
 
 | ![img](../img/inpost/202107/main_page/dead4f5f31b0e03b709d5bee3b1ac11d6e4d3889_full.jpg) | ![img](../img/inpost/202107/main_page/a7d57f09869fe9855eab555557b2299ac4db7821_full.jpg) | ![img](../img/inpost/202107/main_page/08483eb75214a74f759a9221c5836b9e758489d0_full.jpg) | ![img](../img/inpost/202107/main_page/4978949cde16178fcd8efd2a7bea30b2dc57ef65_full.jpg) | ![img](../img/inpost/202107/main_page/054588612c1995ad6862ac4077e748b8f91adec4_full.jpg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -61,10 +63,10 @@ published: true
 | ![img](../img/inpost/202107/main_page/4e0f9df2a984e2208844614afdfb59c8f903b7a6.jpg) | ![img](../img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg) | ![img](../img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full-164009959254826.jpg) | ![img](../img/inpost/202107/main_page/2d2fce562131b51ec05f22b3cc75d4901acd73f6_full.jpg) |                                                              |
 |                             帕克                             |                             瘦宅                             |                             潮汐                             |                            夏洛克                            |                                                              |
 |                          5一代传奇                           |                            2卫士                             |                            3中军                             |                            4统帅                             |                                                              |
-
+<hr /> 
 # 社团退役选手
 
 无
 
 后续计划将转会或者退役的选手信息记录在此。
-
+<hr /> 
