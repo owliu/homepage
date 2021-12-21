@@ -3,7 +3,7 @@
     {% include {{ site.inc_before_post_list }} %}
     {% endif %}
 
-    <span class="post-list-title">Posts {% if (site.show_wiki_posts_limit >= 1 %} (Latest {{site.show_wiki_posts_limit
+    <span class="post-list-title">文章列表|Posts {% if (site.show_wiki_posts_limit >= 1 %} (Latest {{site.show_wiki_posts_limit
         }} updated) {% endif %}:</span>
     <ul class="post-list">
         {% assign numPages=0 %}
@@ -23,7 +23,7 @@
         {% endfor %}
     </ul>
 
-    <span class="post-list read-all"><a href="{{ '/blog/' | relative_url}}">Read all</a></span>
+    <span class="post-list read-all"><a href="{{ '/blog/' | relative_url}}">查看全部|Read all</a></span>
 
     {% if site.inc_after_post_list %}
     {% include {{ site.inc_after_post_list }} %}
