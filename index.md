@@ -29,7 +29,7 @@ published: true
     <td></td>
     <td>
     <img src="./img/inpost/202107/main_page/bilibilifavicon.jpg">
-    <a href="https://space.bilibili.com/1331609">B站赛事录像地址</a><br>
+    <a href="https://www.bilibili.com/medialist/play/1331609?from=space&business=space_series&business_id=714746">B站赛事录像播放列表</a><br>
     <img src="./img/inpost/202107/main_page/youtubefavicon.jpg">
     <a href="https://www.youtube.com/watch?v=-kUK38RsHQo&list=PLHDmdJSAdxtxknSZcIe4EZMmhGmbZ4kOV&ab_channel=%E7%B2%89%E7%89%9B">YouTube赛事录像播放列表</a>
     </td>
