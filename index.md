@@ -68,10 +68,10 @@ published: true
 
 转会或者退役的选手信息记录在此。
 
-|![img](./img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg)|||||
+|![img](./img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg)| | | | |
 |:--:|:--:|:--:|:--:|:--:|
-|瘦宅|||||
-|2卫士|||||
+|瘦宅| | | | |
+|2卫士| | | | |
 
 <hr>
 
