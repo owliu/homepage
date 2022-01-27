@@ -60,14 +60,17 @@ published: true
 | ![img](./img/inpost/202107/main_page/45cfd38cfa53817492f405ec3fd3cdbc2a2896b5_full.jpg) | ![img](./img/inpost/202107/main_page/299b165428168642c4c805978b6b0bbaf85d3414_full.jpg) | ![img](./img/inpost/202107/main_page/33d34be0ff75791aa9cd268b6cf4386e8102af1f.jpg) | ![img](./img/inpost/202107/main_page/80a438be1d6366836966a1a2eed5b1564098b72e_full.jpg) | ![img](./img/inpost/202107/main_page/ebb8a114243d0dc50596cbd3ee99f289617c2317_full.jpg) |
 |                             十三                             |                             大古                             |                            dante                             |                             辣粉                             |                             树枝                             |
 |                          5一代传奇                           |                            2卫士                             |                              无                              |                          7超凡入圣                           |                            3中军                             |
-| ![img](./img/inpost/202107/main_page/4e0f9df2a984e2208844614afdfb59c8f903b7a6.jpg) | ![img](./img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg) | ![img](./img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full-164009959254826.jpg) | ![img](./img/inpost/202107/main_page/2d2fce562131b51ec05f22b3cc75d4901acd73f6_full.jpg) |                              ……                              |
-|                             帕克                             |                             瘦宅                             |                             潮汐                             |                            夏洛克                            |                       期待新同学加入……                       |
-|                          5一代传奇                           |                            2卫士                             |                            3中军                             |                            4统帅                             |                              ……                              |
+| ![img](./img/inpost/202107/main_page/4e0f9df2a984e2208844614afdfb59c8f903b7a6.jpg) | ![img](./img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full-164009959254826.jpg) | ![img](./img/inpost/202107/main_page/2d2fce562131b51ec05f22b3cc75d4901acd73f6_full.jpg) |                              ……                              |                                                              |
+|                             帕克                             |                             潮汐                             |                            夏洛克                            |                       期待新同学加入……                       |                                                              |
+|                          5一代传奇                           |                            3中军                             |                            4统帅                             |                              ……                              |                                                              |
 
 # 社团退役选手
 
-无
-
-后续计划将转会或者退役的选手信息记录在此。
+转会或者退役的选手信息记录在此。
+|![img](./img/inpost/202107/main_page/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg)|||||
+|:--:|:--:|:--:|:--:|:--:|
+|瘦宅|||||
+|2卫士|||||
 
 <hr>
+
