@@ -3,7 +3,7 @@ edirect_from: /
 published: true
 ---
 
-# 云母刀刀社简介
+# OldMother刀刀社简介
 
 云母刀刀社是散爆网络内的Dota2爱好者内部组织的兴趣小组，于2021年7月23日成立。
 社团的成立初衷，只是为了在不影响公司业务、工作排期、现实生活的前提下，和同事促进交流，业余时间能够一起愉快游戏。
@@ -11,9 +11,9 @@ published: true
 <hr> 
 <table width="100%" border="0" cellspacing="1" cellpadding="1" align="center">
   <tr>
-    <td width="33%" ><h4>第三届云母Dota2邀请赛（筹备中）</h4></td>
-    <td width="33%"><h4>第二届云母Dota2邀请赛</h4></td>
-    <td width="33%"><h4>第一届 云母Minor</h4></td>
+    <td width="33%" ><h4>第三届OldMotherDota2邀请赛（筹备中）</h4></td>
+    <td width="33%"><h4>第二届OldMother邀请赛</h4></td>
+    <td width="33%"><h4>第一届 OldMother Minor</h4></td>
   </tr>
   <tr>    
     <td align="center"><img src="./img/inpost/202107/main_page/%E4%BA%91%E6%AF%8DDOTA2%E9%82%80%E8%AF%B7%E8%B5%9B%E5%BF%AB%E6%9D%A5%E4%BA%86.jpg"></td>
