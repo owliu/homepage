@@ -44,9 +44,9 @@ OldMother刀刀社是散爆网络内的Dota2爱好者内部组织的兴趣小组
 
 
 <style>
-iframe{ width: 100%; border-width: 0px; }
+iframe{ width: auto; border-width: 0px; }
 </style>
-<iframe src="xunhuan/index.html" height="650"></iframe>
+<iframe src="xunhuan/index.html" height= auto></iframe>
 # 现役社团选手
 
 早期成员按ID序号升序，后续成员按照加入顺序排序
